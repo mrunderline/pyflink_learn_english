@@ -4,12 +4,12 @@
 
 This guide is based on the PyFlink learning documentation and provides a series of small exercises to help users quickly get started with PyFlink.
 
-1. [Local Development Environment Setup](#Local Development Environment Setup)
-   1. [Install Flink](#Install Flink)
+1. [Local Development Environment Setup](#Local-Development-Environment-Setup)
+   1. [Install Flink](#Install-Flink)
       1. [Mac](#Mac)
-      2. [Other Systems](#Other Systems)
-   2. [Install Other Components](#Install Other Components)
-   3. [Install Python3](#Install Python3)
+      2. [Other Systems](#Other-Systems)
+   2. [Install Other Components](#Install-Other-Components)
+   3. [Install Python3](#Install-Python3)
 2. [Run](#Run)
 
 ## Local Development Environment Setup
@@ -123,7 +123,7 @@ PyFlink requires Python version 3.5, 3.6, or 3.7. It is recommended to use Minic
 
 Find a Python3 installation tutorial on the internet for guidance.
 
-## 2、Run
+## Run
 
 Ensure the following before running:
 1. Python environment is set up.
