@@ -1,6 +1,6 @@
 # PyFlink: From Beginner to Proficient
 
-## ⚠️ I've just tried to translate main repo to english with chat gpt and make some minio improvements.
+## ⚠️ I've just tried to translate main repo to english with chat gpt and make some minor improvements.
 
 This guide is based on the PyFlink learning documentation and provides a series of small exercises to help users quickly get started with PyFlink.
 
